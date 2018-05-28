@@ -1,0 +1,153 @@
+2017-02-24 08:35:08 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - File Distribution Service Task Handler has been Initiated
+2017-02-24 08:37:44 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - 1 Job(s) retrieved for Processing
+2017-02-24 08:37:44 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER Job Description: NONE
+2017-02-24 08:37:44 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER 
+ Schedule Mode: Now  
+ Interval StartTime: 09:30:00 
+ Interval EndTime: 13:30:00 
+ Interval in Minutes: 5 
+ Specific StartTime: 13:30:00 
+ Run Days : 7
+2017-02-24 08:37:44 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Fetch Job: PETER
+2017-02-24 08:37:45 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Query Retrieved for Job: PETER
+2017-02-24 08:37:55 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Record(s) Retrieved: 0 for Job: PETER
+2017-02-24 08:37:57 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Output File created at : C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170224_083755.xlsx for Job: PETER 
+2017-02-24 08:37:57 [12] INFO [FileDistributionService.DeliveryMethodHelper] [(null)] - Destination Process Processing Started
+2017-02-24 08:37:57 [12] INFO [FileDistributionService.DeliveryMethodHelper] [(null)] - FtpOrSftp Destination Process Initiated
+2017-02-24 08:37:59 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_010543.xlsx
+2017-02-24 08:37:59 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_011021.xlsx
+2017-02-24 08:37:59 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_011542.xlsx
+2017-02-24 08:37:59 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_112919.xlsx
+2017-02-24 08:37:59 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_114236.xlsx
+2017-02-24 08:37:59 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_122020.xlsx
+2017-02-24 08:37:59 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170222_085103.xlsx
+2017-02-24 08:48:53 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - File Distribution Service Task Handler has been Initiated
+2017-02-24 08:48:58 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - 1 Job(s) retrieved for Processing
+2017-02-24 08:48:58 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER Job Description: NONE
+2017-02-24 08:48:58 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER 
+ Schedule Mode: Now  
+ Interval StartTime: 09:30:00 
+ Interval EndTime: 13:30:00 
+ Interval in Minutes: 5 
+ Specific StartTime: 13:30:00 
+ Run Days : 7
+2017-02-24 08:48:58 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Fetch Job: PETER
+2017-02-24 08:48:58 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Query Retrieved for Job: PETER
+2017-02-24 08:49:04 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Record(s) Retrieved: 0 for Job: PETER
+2017-02-24 08:50:06 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Output File created at : C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170224_084909.xlsx for Job: PETER 
+2017-02-24 08:50:20 [12] INFO [FileDistributionService.DeliveryMethodHelper] [(null)] - Destination Process Processing Started
+2017-02-24 08:50:20 [12] INFO [FileDistributionService.DeliveryMethodHelper] [(null)] - FtpOrSftp Destination Process Initiated
+2017-02-24 08:50:22 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_010543.xlsx
+2017-02-24 08:50:22 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_011021.xlsx
+2017-02-24 08:50:22 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_011542.xlsx
+2017-02-24 08:50:22 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_112919.xlsx
+2017-02-24 08:50:22 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_114236.xlsx
+2017-02-24 08:50:22 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_122020.xlsx
+2017-02-24 08:50:22 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170222_085103.xlsx
+2017-02-24 08:50:22 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170224_083755.xlsx
+2017-02-24 08:53:18 [7] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - File Distribution Service Task Handler has been Initiated
+2017-02-24 08:53:27 [7] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - 1 Job(s) retrieved for Processing
+2017-02-24 08:53:27 [7] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER Job Description: NONE
+2017-02-24 08:53:27 [7] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER 
+ Schedule Mode: Now  
+ Interval StartTime: 09:30:00 
+ Interval EndTime: 13:30:00 
+ Interval in Minutes: 5 
+ Specific StartTime: 13:30:00 
+ Run Days : 7
+2017-02-24 08:53:28 [7] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Fetch Job: PETER
+2017-02-24 08:53:28 [11] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Query Retrieved for Job: PETER
+2017-02-24 08:53:28 [11] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Record(s) Retrieved: 0 for Job: PETER
+2017-02-24 08:54:06 [11] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Output File created at : C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170224_085337.xlsx for Job: PETER 
+2017-02-24 08:54:15 [11] INFO [FileDistributionService.DeliveryMethodHelper] [(null)] - Destination Process Processing Started
+2017-02-24 08:54:29 [11] INFO [FileDistributionService.DeliveryMethodHelper] [(null)] - FtpOrSftp Destination Process Initiated
+2017-02-24 08:56:36 [11] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_010543.xlsx
+2017-02-24 08:56:45 [11] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_011021.xlsx
+2017-02-24 08:57:09 [11] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_011542.xlsx
+2017-02-24 08:57:09 [11] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_112919.xlsx
+2017-02-24 08:57:09 [11] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_114236.xlsx
+2017-02-24 08:57:09 [11] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_122020.xlsx
+2017-02-24 08:57:09 [11] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170222_085103.xlsx
+2017-02-24 08:57:09 [11] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170224_083755.xlsx
+2017-02-24 08:57:09 [11] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170224_084909.xlsx
+2017-02-24 09:01:30 [11] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - Uploading File C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170224_085337.xlsx 
+2017-02-24 09:03:34 [10] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - File Distribution Service Task Handler has been Initiated
+2017-02-24 09:03:46 [10] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - 1 Job(s) retrieved for Processing
+2017-02-24 09:03:46 [10] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER Job Description: NONE
+2017-02-24 09:03:46 [10] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER 
+ Schedule Mode: Now  
+ Interval StartTime: 09:30:00 
+ Interval EndTime: 13:30:00 
+ Interval in Minutes: 5 
+ Specific StartTime: 13:30:00 
+ Run Days : 7
+2017-02-24 09:03:46 [10] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Fetch Job: PETER
+2017-02-24 09:03:46 [14] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Query Retrieved for Job: PETER
+2017-02-24 09:03:46 [14] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Record(s) Retrieved: 0 for Job: PETER
+2017-02-24 09:03:59 [14] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Output File created at : C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170224_090355.csv for Job: PETER 
+2017-02-24 09:04:34 [14] INFO [FileDistributionService.DeliveryMethodHelper] [(null)] - Destination Process Processing Started
+2017-02-24 09:04:34 [14] INFO [FileDistributionService.DeliveryMethodHelper] [(null)] - FtpOrSftp Destination Process Initiated
+2017-02-24 09:15:30 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - File Distribution Service Task Handler has been Initiated
+2017-02-24 09:15:32 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - 1 Job(s) retrieved for Processing
+2017-02-24 09:15:32 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER Job Description: NONE
+2017-02-24 09:15:32 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER 
+ Schedule Mode: Now  
+ Interval StartTime: 09:30:00 
+ Interval EndTime: 13:30:00 
+ Interval in Minutes: 5 
+ Specific StartTime: 13:30:00 
+ Run Days : 7
+2017-02-24 09:15:32 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Fetch Job: PETER
+2017-02-24 09:15:33 [13] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Query Retrieved for Job: PETER
+2017-02-24 09:15:33 [13] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Record(s) Retrieved: 0 for Job: PETER
+2017-02-24 09:23:01 [13] ERROR [FileDistributionService.FileDistributionTaskScheduler] [(null)] - There was an error processing Job: PETER, last Run Time: 2/24/2017 9:23:01 AM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at FileDistributionService.DataAccessLayer.DataHelper.DataTableToCsv(DataTable dtSource, String fileName)
+   at FileDistributionService.FileDistributionTaskScheduler.CreateDataFile(Dictionary`2 outputFileOptionsDictionary, String relativeOrAbsoluteFilePath, DataTable dt)
+   at FileDistributionService.FileDistributionTaskScheduler.ExecuteTask(ScheduledTask task)
+   at FileDistributionService.FileDistributionTaskScheduler.<>c__DisplayClass8_0.<ExecuteTaskWrapper>b__0()
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FileDistributionService.FileDistributionTaskScheduler.<ExecuteTaskWrapper>d__8.MoveNext()
+2017-02-24 09:23:21 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - File Distribution Service Task Handler has been Initiated
+2017-02-24 09:23:31 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - 1 Job(s) retrieved for Processing
+2017-02-24 09:23:31 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER Job Description: NONE
+2017-02-24 09:23:31 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER 
+ Schedule Mode: Now  
+ Interval StartTime: 09:30:00 
+ Interval EndTime: 13:30:00 
+ Interval in Minutes: 5 
+ Specific StartTime: 13:30:00 
+ Run Days : 7
+2017-02-24 09:23:31 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Fetch Job: PETER
+2017-02-24 09:23:31 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Query Retrieved for Job: PETER
+2017-02-24 09:23:31 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Record(s) Retrieved: 0 for Job: PETER
+2017-02-24 09:30:01 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Output File created at : C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170224_092436.csv for Job: PETER 
+2017-02-24 09:30:01 [12] INFO [FileDistributionService.DeliveryMethodHelper] [(null)] - Destination Process Processing Started
+2017-02-24 09:30:01 [12] INFO [FileDistributionService.DeliveryMethodHelper] [(null)] - FtpOrSftp Destination Process Initiated
+2017-02-24 09:30:10 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - 2 files: found in output Directory that matches the Pattern: *.csv*
+2017-02-24 09:30:10 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170224_091648.csv
+2017-02-24 10:17:25 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - File Distribution Service Task Handler has been Initiated
+2017-02-24 10:17:43 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - 1 Job(s) retrieved for Processing
+2017-02-24 10:17:43 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER Job Description: NONE
+2017-02-24 10:17:43 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER 
+ Schedule Mode: Interval  
+ Interval StartTime: 09:30:00 
+ Interval EndTime: 13:30:00 
+ Interval in Minutes: 5 
+ Specific StartTime: 13:30:00 
+ Run Days : 7
+2017-02-24 10:51:22 [10] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - File Distribution Service Task Handler has been Initiated
+2017-02-24 10:52:09 [10] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - 1 Job(s) retrieved for Processing
+2017-02-24 10:52:09 [10] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER Job Description: NONE
+2017-02-24 10:52:09 [10] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER 
+ Schedule Mode: Interval  
+ Interval StartTime: 09:30:00 
+ Interval EndTime: 13:30:00 
+ Interval in Minutes: 5 
+ Specific StartTime: 13:30:00 
+ Run Days : 7

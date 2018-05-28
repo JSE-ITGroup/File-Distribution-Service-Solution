@@ -1,0 +1,12 @@
+﻿Attempting to gather dependency information for package 'log4net.2.0.6' with respect to project 'FileDistributionService', targeting '.NETFramework,Version=v4.5.2'
+Attempting to resolve dependencies for package 'log4net.2.0.6' with DependencyBehavior 'Lowest'
+Resolving actions to install package 'log4net.2.0.6'
+Resolved actions to install package 'log4net.2.0.6'
+  GET https://api.nuget.org/packages/log4net.2.0.6.nupkg
+  OK https://api.nuget.org/packages/log4net.2.0.6.nupkg 83ms
+Installing log4net 2.0.6.
+Adding package 'log4net.2.0.6' to folder 'D:\Software-Development\Source\Repos\FDS\FileDistributionServiceSolution\packages'
+Added package 'log4net.2.0.6' to folder 'D:\Software-Development\Source\Repos\FDS\FileDistributionServiceSolution\packages'
+Added package 'log4net.2.0.6' to 'packages.config'
+Successfully installed 'log4net 2.0.6' to FileDistributionService
+========== Finished ==========

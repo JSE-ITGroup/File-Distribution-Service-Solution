@@ -1,0 +1,11 @@
+2017-04-06 10:55:32 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - File Distribution Service Task Handler has been Initiated
+2017-04-06 10:55:54 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - 1 Job(s) retrieved for Processing
+2017-04-06 10:56:02 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER Job Description: NONE
+2017-04-06 10:56:48 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER 
+ Schedule Mode: Interval  
+ Interval StartTime: 09:30:00 
+ Interval EndTime: 13:30:00 
+ Interval in Minutes: 5 
+ Specific StartTime: 13:30:00 
+ Run Days : 7
+2017-04-06 10:58:14 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - No Job Schdeuled for the current Date Time: 4/6/2017 10:58:14 AM

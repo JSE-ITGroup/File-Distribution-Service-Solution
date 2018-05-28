@@ -1,0 +1,59 @@
+2017-02-02 22:23:09 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - File Distribution Service Task Handler has been Initiated
+2017-02-02 22:23:20 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - 1 Job(s) retrieved for Processing
+2017-02-02 22:23:20 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER Job Description: NONE
+2017-02-02 22:23:20 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER 
+ Schedule Mode: Now  
+ Interval StartTime: 09:30:00 
+  Interval EndTime: 13:30:00 
+, Interval in Minutes: 5, 
+ Specific StartTime: 13:30:00 
+ Run Days : 7 
+
+2017-02-02 22:23:23 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Fetch Job: PETER
+2017-02-02 22:23:31 [12] ERROR [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Pre or Post Failed System.ComponentModel.Win32Exception (0x80004005): The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at FileDistributionService.FileDistributionTaskScheduler.ExternalProcessExecution(Dictionary`2 processDictionary) in C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\FileDistributionTaskScheduler.cs:line 436
+2017-02-02 22:23:31 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Query Retrieved
+2017-02-02 22:23:31 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Record(s) Retrieved: 76
+2017-02-02 22:23:34 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Output File created at : C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170202_102331.xlsx
+2017-02-02 22:23:34 [12] INFO [FileDistributionService.DeliveryMethodHelper] [(null)] - Destination Process Processing Started
+2017-02-02 22:23:34 [12] INFO [FileDistributionService.DeliveryMethodHelper] [(null)] - FtpOrSftp Destination Process Initiated
+2017-02-02 22:23:37 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_010543.xlsx
+2017-02-02 22:23:37 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_011021.xlsx
+2017-02-02 22:23:37 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_011542.xlsx
+2017-02-02 22:23:37 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_112919.xlsx
+2017-02-02 22:23:37 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_114236.xlsx
+2017-02-02 22:23:37 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_122020.xlsx
+2017-02-02 22:23:38 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - Uploading File C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170202_102331.xlsx 
+2017-02-02 22:23:38 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - File:  C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170202_102331.xlsx was succesfully Uploaded.
+2017-02-02 22:23:38 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Repos_20170107_010602.xlsx
+2017-02-02 22:23:38 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Repos_20170107_011035.xlsx
+2017-02-02 22:23:38 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Repos_20170107_011552.xlsx
+2017-02-02 22:23:38 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Repos_20170107_114317.xlsx
+2017-02-02 22:23:38 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Repos_20170107_122038.xlsx
+2017-02-02 22:23:45 [12] ERROR [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Pre or Post Failed System.ComponentModel.Win32Exception (0x80004005): The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at FileDistributionService.FileDistributionTaskScheduler.ExternalProcessExecution(Dictionary`2 processDictionary) in C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\FileDistributionTaskScheduler.cs:line 436
+2017-02-02 22:23:45 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Query Retrieved
+2017-02-02 22:23:45 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Record(s) Retrieved: 76
+2017-02-02 22:23:45 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Output File created at : C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Repos_20170202_102345.xlsx
+2017-02-02 22:23:45 [12] INFO [FileDistributionService.DeliveryMethodHelper] [(null)] - Destination Process Processing Started
+2017-02-02 22:23:45 [12] INFO [FileDistributionService.DeliveryMethodHelper] [(null)] - FtpOrSftp Destination Process Initiated
+2017-02-02 22:23:48 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_010543.xlsx
+2017-02-02 22:23:48 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_011021.xlsx
+2017-02-02 22:23:48 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_011542.xlsx
+2017-02-02 22:23:48 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_112919.xlsx
+2017-02-02 22:23:48 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_114236.xlsx
+2017-02-02 22:23:48 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Actions_20170107_122020.xlsx
+2017-02-02 22:23:48 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Repos_20170107_010602.xlsx
+2017-02-02 22:23:48 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Repos_20170107_011035.xlsx
+2017-02-02 22:23:48 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Repos_20170107_011552.xlsx
+2017-02-02 22:23:48 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Repos_20170107_114317.xlsx
+2017-02-02 22:23:48 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - SKIPPING File: C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Repos_20170107_122038.xlsx
+2017-02-02 22:23:49 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - Uploading File C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Repos_20170202_102345.xlsx 
+2017-02-02 22:23:49 [12] INFO [FileDistributionService.Helper.FtpWrapper] [(null)] - File:  C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\Files\OutputData\Repos_20170202_102345.xlsx was succesfully Uploaded.
+2017-02-02 22:23:53 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job: PETER was succesfully processed last Run Time: 2/2/2017 10:23:53 PM

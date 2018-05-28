@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: FileDistributionService, Configuration: Debug Any CPU ------
+1>C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\Helper\SshWrapper.cs(136,13,136,19): warning CS0162: Unreachable code detected
+1>C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\Helper\DataTableExtension.cs(137,30,137,32): warning CS0168: The variable 'ex' is declared but never used
+1>  FileDistributionService -> C:\Data\SourceCodeRepository\FDS\FileDistributionServiceSolution\FileDistributionService\bin\Debug\FileDistributionService.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

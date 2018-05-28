@@ -1,0 +1,37 @@
+2017-02-22 08:44:18 [7] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - File Distribution Service Task Handler has been Initiated
+2017-02-22 08:44:39 [7] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - 1 Job(s) retrieved for Processing
+2017-02-22 08:44:39 [7] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER Job Description: NONE
+2017-02-22 08:44:39 [7] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER 
+ Schedule Mode: Now  
+ Interval StartTime: 09:30:00 
+ Interval EndTime: 13:30:00 
+ Interval in Minutes: 5 
+ Specific StartTime: 13:30:00 
+ Run Days : 7
+2017-02-22 08:44:39 [7] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Fetch Job: PETER
+2017-02-22 08:44:39 [12] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Query Retrieved for Job: PETER
+2017-02-22 08:46:33 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - File Distribution Service Task Handler has been Initiated
+2017-02-22 08:46:39 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - 1 Job(s) retrieved for Processing
+2017-02-22 08:46:39 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER Job Description: NONE
+2017-02-22 08:46:39 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER 
+ Schedule Mode: Now  
+ Interval StartTime: 09:30:00 
+ Interval EndTime: 13:30:00 
+ Interval in Minutes: 5 
+ Specific StartTime: 13:30:00 
+ Run Days : 7
+2017-02-22 08:46:39 [8] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Fetch Job: PETER
+2017-02-22 08:46:39 [13] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Query Retrieved for Job: PETER
+2017-02-22 08:48:34 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - File Distribution Service Task Handler has been Initiated
+2017-02-22 08:48:44 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - 1 Job(s) retrieved for Processing
+2017-02-22 08:48:44 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER Job Description: NONE
+2017-02-22 08:48:44 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Name: PETER 
+ Schedule Mode: Now  
+ Interval StartTime: 09:30:00 
+ Interval EndTime: 13:30:00 
+ Interval in Minutes: 5 
+ Specific StartTime: 13:30:00 
+ Run Days : 7
+2017-02-22 08:48:44 [9] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Fetch Job: PETER
+2017-02-22 08:48:44 [13] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Job Query Retrieved for Job: PETER
+2017-02-22 08:50:50 [13] INFO [FileDistributionService.FileDistributionTaskScheduler] [(null)] - Record(s) Retrieved: 0 for Job: PETER
